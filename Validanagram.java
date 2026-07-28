@@ -1,4 +1,4 @@
-Public class Validanagram {
+class solution {
     public boolean isAnagram(String s, String t) {
         
         // Check if both strings have the same length
